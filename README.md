@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zeufack
-- 👀 I’m interested in Porgramming 
-- 🌱 I’m currently learning Rust and also machine learning
-- 💞️ I’m looking to collaborate on all king of programming project 
+- Test Automation engineer [appium, selenium, cypress, playwright]
+- 👀 I’m interested in Porgramming
+- 🌱 I’m currently learning Go and also machine learning
 - 📫 How to reach me discord | zeuphy#5717
 
 will creat awesome readme later :>
