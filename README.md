@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @zeufack
 - Software engineer [java, typscript, python, go ]
 - Test Automation engineer [appium, selenium, cypress, playwright]
-- 👀 I’m interested in Porgramming
-- 🌱 I’m currently learning Go and also machine learning
+- 👀 I’m interested all in computer science
 - 📫 How to reach me discord | zeuphy#5717
 
 
