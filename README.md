@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Go and also machine learning
 - 📫 How to reach me discord | zeuphy#5717
 
-will creat awesome readme later :>
 
 <!---
 zeufack/zeufack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
