@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zeufack
 - Software engineer [java, typscript, python, go ]
 - Test Automation engineer [appium, selenium, cypress, playwright]
-- 👀 I’m interested all in computer science
+- 👀 I’m interested in all about computer science
 - 📫 How to reach me discord | zeuphy#5717
 
 
